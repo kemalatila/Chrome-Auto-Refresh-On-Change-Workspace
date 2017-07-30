@@ -2,7 +2,7 @@
 
 ## This Python Script Refresh Your Chromium Browser When Your Defined Workspace Opened. (Regardless Of Compiz) ##
 
-**Usage : **
+**Usage :**
 
 As the first please install and run chromium on debugging mode, because this script uses chromium debugging protokol 
 
@@ -20,4 +20,4 @@ python3 chromium_refresh_on_workspace_change.py --workspace = 2
 
 Tested on Ubuntu 16.04
 
-** If you liked give star **
+**If you liked give star**
