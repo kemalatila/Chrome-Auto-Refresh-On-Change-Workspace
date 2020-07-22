@@ -1,4 +1,4 @@
-# Chrome-Auto-Refresh-On-Change-Workspace
+# Chrome Auto Refresh On Change Workspace
 
 ## This Python Script Refresh Your Chromium Browser When Your Defined Workspace Opened. (Regardless Of Compiz) ##
 
